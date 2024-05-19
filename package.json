@@ -1,0 +1,25 @@
+{
+  "name": "kibrito-task",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "-": "^0.0.1",
+    "axios": "^1.6.8",
+    "normalize.css": "^8.0.1",
+    "pinia": "^2.1.7",
+    "sass": "^1.77.2",
+    "vue": "^3.4.21",
+    "vue-i18n": "^10.0.0-alpha.5",
+    "vue-router": "4"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.4",
+    "vite": "^5.2.0"
+  }
+}
